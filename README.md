@@ -6,3 +6,6 @@ This is a refactored webpage for HoriSEOn. Changes were primarily focused on org
 Screen shot of small device updates: 
 
 ![Screen shot of small device updates](./screenshot.png)
+
+Hosted URL: 
+https://chandrapanda.github.io/refactoring-factory/
